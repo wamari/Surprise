@@ -30,7 +30,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:text="Love,Abigail"
+        android:text="Love, me"
         android:textSize="32sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/black"
