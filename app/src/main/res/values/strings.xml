@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Surprise</string>
+    <string name="app_name" translatable="false">Surprise</string>
     <string name="image_view">main_image</string>
 </resources>
